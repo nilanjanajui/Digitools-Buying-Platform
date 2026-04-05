@@ -86,6 +86,9 @@ npm install
 npm run dev
 ```
 
-The website will be available at [https://digitool-platform2.netlify.app/](https://digitool-platform2.netlify.app/).
+Live demo: [https://digitool-platform2.netlify.app/](https://digitool-platform2.netlify.app/).
+
+
+
 
 
