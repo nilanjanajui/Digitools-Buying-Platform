@@ -87,8 +87,3 @@ npm run dev
 ```
 
 Live demo: [https://digitool-platform2.netlify.app/](https://digitool-platform2.netlify.app/).
-
-
-
-
-
